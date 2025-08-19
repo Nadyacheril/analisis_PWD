@@ -11,8 +11,8 @@ export default function Home() {
               <a href="#" className="text-3xl font-semibold text-white">XURAA</a>
               <ul className="hidden md:flex space-x-8 text-white font-medium">
                 <li><a href="#About" className="hover:text-red-500">About</a></li>
-                <li><a href="#Discount" class="hover:text-red-500">Discount</a></li>
-                <li><a href="#Product" class="hover:text-red-300">Product</a></li>
+                <li><a href="#Discount" className="hover:text-red-500">Discount</a></li>
+                <li><a href="#Product" className="hover:text-red-300">Product</a></li>
                 <li><a href="#Contact" class="hover:text-red-300">Contact</a></li>
               </ul>
               <div class="flex items-center space-x-4">
